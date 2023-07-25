@@ -1,8 +1,8 @@
 body {
     margin: 0;
-    background-color: #1e1e1e;
     font-family: Inter, sans-serif;
     font-weight: 400;
+    background-color: #1e1e1e;
 }
 
 h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
@@ -29,10 +29,10 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 }
 
 .header {
-    padding: 24px 20px;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
+    padding: 24px 20px;
 }
 
 .header__logo {
@@ -62,8 +62,8 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 }
 
 .cover {
-    padding: 7px 24px 32px 20px;
     min-height: 198px;
+    padding: 7px 24px 32px 20px;
     background-image: url('../images/cover.svg');
     background-repeat: no-repeat;
     background-position: right center;
