@@ -57,7 +57,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
     line-height: 1.2;
 }
 
-.header__menu-item_active .header__menu-link{
+.header__menu-item_active .header__menu-link {
     text-decoration: none;
 }
 
