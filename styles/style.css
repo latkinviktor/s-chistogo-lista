@@ -181,22 +181,10 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
     background-color: #fee42a;
 }
 
-.card__author {
-    
-}
-
 .card__author-photo {
     display: block;
     width: 100px;
     border-radius: 50%;
-}
-
-.card__author-name {
-
-}
-
-.card__content {
-
 }
 
 .card__title {
@@ -208,7 +196,8 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 }
 
 .card__text {
-
+    font-size: 16px;
+    line-height: 1.35;
 }
 
 .footer {
